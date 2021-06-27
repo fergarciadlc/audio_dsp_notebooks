@@ -1,0 +1,4 @@
+format: jb-article
+root: landing-page
+sections:
+- file: Impulse Response for Audio

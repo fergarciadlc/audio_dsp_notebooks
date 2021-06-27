@@ -1,0 +1,5 @@
+# in _config.yml
+title: "Impulse Response for Audio"
+logo: jean_victor_balin_double_note.svg
+execute:
+  execute_notebooks: "off"
