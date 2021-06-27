@@ -1,16 +1,12 @@
-# Welcome to your Jupyter Book
+# Welcome to Audio DSP Notebooks
 
-This is a small sample book to give you a feel for how book content is
-structured.
+This is a project for sharing useful notebooks for digital signal processing, mostly for audio and music applications.
 
-:::{note}
-Here is a note!
-:::
+## About:
+My name is Fernando, I have a background in electronics a communications engineering, I'm into acoustics, software engineering, data science, and music.  
 
-And here is a code block:
+I hope you find interesting and useful the resources that I share here.
 
-```
-e = mc^2
-```
+Connect with me on (Github)[https://github.com/fergarciadlc/] and (Linkedin)[https://www.linkedin.com/in/fergarciadlc/]
 
 Check out the content pages bundled with this sample book to see more.
