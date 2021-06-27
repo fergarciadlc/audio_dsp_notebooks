@@ -7,6 +7,4 @@ My name is Fernando, I have a background in electronics a communications enginee
 
 I hope you find interesting and useful the resources that I share here.
 
-Connect with me on (Github)[https://github.com/fergarciadlc/] and (Linkedin)[https://www.linkedin.com/in/fergarciadlc/]
-
-Check out the content pages bundled with this sample book to see more.
+Connect with me on [Github](https://github.com/fergarciadlc/) and [Linkedin](https://www.linkedin.com/in/fergarciadlc/). 😀
